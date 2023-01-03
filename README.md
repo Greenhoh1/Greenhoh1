@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Greenhoh1
 - 👀 I’m interested in Roblox code and AI and ai learn
-- 🌱 I’m currently learning Roblox luea
+- 🌱 I’m currently learning Roblox Lua
 - 💞️ I’m looking to collaborate on idk
 - 📫 You can reach me in my Roblox DM's
